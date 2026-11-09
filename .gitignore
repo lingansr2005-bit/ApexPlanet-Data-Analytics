@@ -1,0 +1,10 @@
+# Ignore original dataset
+data/raw/
+
+# Ignore processed datasets
+data/processed/*.csv
+data/processed/*.xlsx
+
+# Ignore generated reports containing dataset information
+outputs/*.csv
+reports/project_summary.csv

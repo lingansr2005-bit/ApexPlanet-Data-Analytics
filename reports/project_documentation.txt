@@ -1,0 +1,37 @@
+
+APEXPLANET DATA ANALYTICS PROJECT
+=================================
+
+PROJECT: Sales Data Analysis
+
+OBJECTIVE:
+To explore, clean, transform, validate and
+prepare the sales dataset for further analysis.
+
+DATASET INFORMATION:
+Total Records: 1000
+Total Columns: 19
+
+ACTIVITIES COMPLETED:
+1. Data Exploration
+2. Data Dictionary Creation
+3. Data Quality Assessment
+4. Data Cleaning
+5. Data Transformation
+6. Data Validation
+7. Final Dataset Export
+
+FINAL DATASET:
+Excel: final_sales_dataset.xlsx
+CSV: final_sales_dataset.csv
+
+DATA QUALITY:
+Duplicate Rows: 0
+Validation Issues: 999
+
+CONCLUSION:
+The sales dataset has been processed and
+exported for further data analysis and reporting.
+
+=================================
+PROJECT COMPLETED
